@@ -1,0 +1,36 @@
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\bin\Debug\net6.0\Utilidad.deps.json
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\bin\Debug\net6.0\Utilidad.dll
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\bin\Debug\net6.0\Utilidad.pdb
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\obj\Debug\net6.0\Utilidad.csproj.AssemblyReference.cache
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\obj\Debug\net6.0\Utilidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\obj\Debug\net6.0\Utilidad.AssemblyInfoInputs.cache
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\obj\Debug\net6.0\Utilidad.AssemblyInfo.cs
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\obj\Debug\net6.0\Utilidad.csproj.CoreCompileInputs.cache
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\obj\Debug\net6.0\Utilidad.dll
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\obj\Debug\net6.0\refint\Utilidad.dll
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\obj\Debug\net6.0\Utilidad.pdb
+D:\Experiencias formativas de trabajo\085_SistemaVentaAngularNet-master\Utilidad\obj\Debug\net6.0\ref\Utilidad.dll
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\bin\Debug\net6.0\Utilidad.deps.json
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\bin\Debug\net6.0\Utilidad.dll
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\bin\Debug\net6.0\Utilidad.pdb
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\obj\Debug\net6.0\Utilidad.csproj.AssemblyReference.cache
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\obj\Debug\net6.0\Utilidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\obj\Debug\net6.0\Utilidad.AssemblyInfoInputs.cache
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\obj\Debug\net6.0\Utilidad.AssemblyInfo.cs
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\obj\Debug\net6.0\Utilidad.csproj.CoreCompileInputs.cache
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\obj\Debug\net6.0\Utilidad.dll
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\obj\Debug\net6.0\refint\Utilidad.dll
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\obj\Debug\net6.0\Utilidad.pdb
+D:\Experiencias formativas de trabajo\sistemaDeVentasCafeteria\Utilidad\obj\Debug\net6.0\ref\Utilidad.dll
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\bin\Debug\net6.0\Utilidad.deps.json
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\bin\Debug\net6.0\Utilidad.dll
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\bin\Debug\net6.0\Utilidad.pdb
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\obj\Debug\net6.0\Utilidad.csproj.AssemblyReference.cache
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\obj\Debug\net6.0\Utilidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\obj\Debug\net6.0\Utilidad.AssemblyInfoInputs.cache
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\obj\Debug\net6.0\Utilidad.AssemblyInfo.cs
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\obj\Debug\net6.0\Utilidad.csproj.CoreCompileInputs.cache
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\obj\Debug\net6.0\Utilidad.dll
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\obj\Debug\net6.0\refint\Utilidad.dll
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\obj\Debug\net6.0\Utilidad.pdb
+D:\Instituto_cibertec\Ciclo_Cibertec\Cibertec\Ciclo 5\Experiencias formativas de trabajo\Programa\sistemaDeVentas\Utilidad\obj\Debug\net6.0\ref\Utilidad.dll
